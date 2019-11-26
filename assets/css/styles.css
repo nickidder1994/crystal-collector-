@@ -1,0 +1,58 @@
+.h1 {
+    margin-left: 100px;
+    text-decoration-line: underline;
+}
+#head-container {
+    margin-left: 50px;
+    margin-right: 50px;
+}
+#game-container {
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.purple {
+    width: 80px;
+    height: 90px;
+    border:2px outset;
+    display: inline-block;
+} 
+.yellow {
+    width: 80px;
+    height: 90px;
+    border:2px outset;
+    display: inline-block;
+   
+}
+.blue {
+    width: 80px;
+    height: 90px;
+    border:2px outset;
+    display: inline-block;
+}
+.red {
+    width: 80px;
+    height: 90px;
+    border:2px outset;
+    display: inline-block;
+    
+}
+.random-number-box {
+    width: 100px;
+    height: 100px;
+    border: 2px inset;
+    margin-bottom: 50px;
+    display: inline-block;
+}
+.score-container {
+    width: 100px;
+    height: 100px;
+    border: 2px inset;
+    margin-bottom: 50px;
+    
+}
+.score-box {
+    width: 100px;
+    height: 100px;
+    border: 2px inset;
+    margin-top:50px;
+}
